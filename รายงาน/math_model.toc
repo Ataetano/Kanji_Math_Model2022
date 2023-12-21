@@ -1,0 +1,17 @@
+\selectlanguage *{english}
+\contentsline {section}{\numberline {1}บทนำ}{2}{}%
+\contentsline {section}{\numberline {2}ความรู้พื้นฐานที่จำเป็น}{2}{}%
+\contentsline {section}{\numberline {3}ผลลัพธ์หลัก}{3}{}%
+\contentsline {subsection}{\numberline {3.1}ปัญหา}{3}{}%
+\contentsline {subsection}{\numberline {3.2}องค์ประกอบ}{3}{}%
+\contentsline {subsection}{\numberline {3.3}สมมติฐาน}{3}{}%
+\contentsline {subsection}{\numberline {3.4}แบบจำลองทางคณิตศาสตร์}{4}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}แบบจำลองทางคณิตศาสตร์การเรียนรู้ตัวอักษรคันจิ}{4}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}การหาจำนวนตัวอักษรคันจิที่ควรเรียนรู้ต่อวันเมื่อต้องเรียนรู้ตัวอักษรคันจิภายใน 720 วัน}{4}{}%
+\contentsline {section}{\numberline {4}ผลลัพธ์เชิงตัวเลข}{4}{}%
+\contentsline {subsection}{\numberline {4.1}ผลลัพธ์เชิงตัวเลขแบบทั่วไป}{5}{}%
+\contentsline {subsection}{\numberline {4.2}ผลลัพธ์เชิงตัวเลขแบบพอดี}{5}{}%
+\contentsline {subsection}{\numberline {4.3}ผลลัพธ์เชิงตัวเลขแบบไม่พอดี}{5}{}%
+\contentsline {subsection}{\numberline {4.4}ผลลัพธ์เชิงตัวเลขแบบพิเศษ}{5}{}%
+\contentsline {section}{\numberline {5}บทวิเคราะห์}{7}{}%
+\contentsline {section}{\numberline {6}สรุปผล}{7}{}%

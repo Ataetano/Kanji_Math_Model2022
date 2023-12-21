@@ -1,0 +1,112 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{หลักสูตรสาขาวิชาภาษาญี่ปุ่น2561}{report}{}
+      \name{author}{1}{}{%
+        {{hash=fdad74c165c1ab53fa8a9c0c82f32d23}{%
+           family={ภาควิชาภาษาไทยและภาษาวัฒนธรรมตะวันออกสาขาวิชาภาษาญี่ปุ่น},
+           familyi={ภ\bibinitperiod},
+           given={คณะศิลปศาสตร์},
+           giveni={ค\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {มหาวิทยาลัยธรรมศาสตร์}%
+      }
+      \strng{namehash}{fdad74c165c1ab53fa8a9c0c82f32d23}
+      \strng{fullhash}{fdad74c165c1ab53fa8a9c0c82f32d23}
+      \strng{bibnamehash}{fdad74c165c1ab53fa8a9c0c82f32d23}
+      \strng{authorbibnamehash}{fdad74c165c1ab53fa8a9c0c82f32d23}
+      \strng{authornamehash}{fdad74c165c1ab53fa8a9c0c82f32d23}
+      \strng{authorfullhash}{fdad74c165c1ab53fa8a9c0c82f32d23}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{รายละเอียดของหลักสูตร หลักสูตรศิลปศาสตร์บันฑิต สาขาวิชาภาษาญี่ปุ่น (หลักสูตรปรับปรุง พ.ศ.2561)}
+      \field{year}{2561}
+    \endentry
+    \entry{ebbinghaus1913memory}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5d7a6e7e0e82bcc144f01ac47862fe2f}{%
+           family={Ebbinghaus},
+           familyi={E\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=7cd4e799ed2e00f249a82907543fc4d5}{%
+           family={Ruger},
+           familyi={R\bibinitperiod},
+           given={Henry\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=dca13120cdf798ea8a655b7b23ebc593}{%
+           family={Bussenius},
+           familyi={B\bibinitperiod},
+           given={Clara\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Teachers College Press}%
+      }
+      \strng{namehash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
+      \strng{fullhash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
+      \strng{bibnamehash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
+      \strng{authorbibnamehash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
+      \strng{authornamehash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
+      \strng{authorfullhash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
+      \strng{translatorbibnamehash}{54389fcd35cb8912ef30a199056ff749}
+      \strng{translatornamehash}{54389fcd35cb8912ef30a199056ff749}
+      \strng{translatorfullhash}{54389fcd35cb8912ef30a199056ff749}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Memory: A Contribution to Experimental Psychology}
+      \field{year}{1913}
+      \verb{doi}
+      \verb 10.1037/10011-000
+      \endverb
+    \endentry
+    \entry{MathematicalModeling}{online}{}
+      \name{author}{1}{}{%
+        {{hash=cddcf7bb2b5fd3000cf8c7b5a2edddc8}{%
+           family={Promkam},
+           familyi={P\bibinitperiod},
+           given={Ratthaprom},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{cddcf7bb2b5fd3000cf8c7b5a2edddc8}
+      \strng{fullhash}{cddcf7bb2b5fd3000cf8c7b5a2edddc8}
+      \strng{bibnamehash}{cddcf7bb2b5fd3000cf8c7b5a2edddc8}
+      \strng{authorbibnamehash}{cddcf7bb2b5fd3000cf8c7b5a2edddc8}
+      \strng{authornamehash}{cddcf7bb2b5fd3000cf8c7b5a2edddc8}
+      \strng{authorfullhash}{cddcf7bb2b5fd3000cf8c7b5a2edddc8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online]. Available: \url{https://epsilonxe.github.io/RMUTT_09114223/}}
+      \field{title}{Introduction to Mathematical Modeling}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
